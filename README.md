@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<h3 align="center">Student||Developer||</h3>
+<h3 align="center">Research Analyst @Kantar||</h3>
 
 - 📫 How to reach me **saurabh.s231002@gmail.com**
 
